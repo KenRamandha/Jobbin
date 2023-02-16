@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Jobbin</string>
+    <string name="title_home">Home</string>
+    <string name="title_jobs">Jobs</string>
+    <string name="title_save">Save</string>
+    <string name="title_profile">Profile</string>
+
+    <string-array name="perusahaan">
+        <item>Telkom</item>
+        <item>Aqua</item>
+        <item>BMW</item>
+        <item>Pertamina</item>
+        <item>Tokopedia</item>
+    </string-array>
+
+    <string-array name="lowongan">
+        <item>UI/UX Design</item>
+        <item>Marketing</item>
+        <item>Sales</item>
+        <item>Android Developer</item>
+        <item>UI/UX Design</item>
+    </string-array>
+
+    <string-array name="alamat">
+        <item>JL. Jalanin Dulu Aja No.1</item>
+        <item>JL. Penting Yakin No.11</item>
+        <item>JL. Menuju Kelulusan No.4</item>
+        <item>JL. Lancar Jaya No.43</item>
+        <item>JL. Ketikan Keyakinan No.24</item>
+    </string-array>
+
+
+    <string-array name="jamKerja">
+        <item>5 hr works</item>
+        <item>6 hr works</item>
+        <item>5 hr works</item>
+        <item>6 hr works</item>
+        <item>5 hr works</item>
+    </string-array>
+
+    <string-array name="waktu">
+        <item>12 hours ago</item>
+        <item>14 hours ago</item>
+        <item>16 hours ago</item>
+        <item>18 hours ago</item>
+        <item>20 hours ago</item>
+    </string-array>
+</resources>
